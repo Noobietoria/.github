@@ -2,7 +2,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/logofullwhite.svg">
-    <img alt="Noobietoria Cover" src=".github/assets/logofullwhite.svg" width="600px">
+    <img alt="Noobietoria Cover" src="assets/logofullwhite.svg" width="600px">
 </picture>
 
 # Noobietoria
